@@ -1,3 +1,1 @@
-Sample application of using [UsageStatManager](https://developer.android.com/reference/android/app/usage/UsageStatsManager.html)
-
-Checkout [blog post](http://blog.tunebrains.com/2015/10/20/usage-stats-manager-sample.html) for details
+本项目为阿里Weex框架Android平台HelloWorld示例。相关文章链接为：
