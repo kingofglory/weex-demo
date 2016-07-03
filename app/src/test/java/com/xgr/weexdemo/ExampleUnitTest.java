@@ -1,4 +1,4 @@
-package com.tunebrains.usmsample;
+package com.xgr.weexdemo;
 
 import org.junit.Test;
 
